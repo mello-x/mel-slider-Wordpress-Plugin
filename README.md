@@ -1,3 +1,4 @@
+<h1>Mel Slider WordPress Slider Plugin</h1>
 <p>Introducing the <b>Mel Slider</b> WordPress Slider|Carousel Plugin – an easy-to-use tool for showcasing your images. I've made it super simple: just use the [mel_slider] shortcode to display your image slider on any page.</p>
 
 <p><strong>Here's what makes my plugin great:</strong></p>
